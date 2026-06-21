@@ -209,4 +209,4 @@ All API routes are mounted under `/api/v1`.
 
 ## License
 
-ISC
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Talha-Tahir2001/e-commerce-backend?tab=MIT-1-ov-file) file for details.
